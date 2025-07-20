@@ -1,0 +1,23 @@
+name: Play a Game on Profile
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Play a Game
+        uses: DenverCoder1/play-a-game-on-github-profile@v1.0.0
+        with:
+          # Choose your game! Options: pacman, snake, tetris, spaceinvaders, minesweeper
+          # More games might be added in the future, check the action's repository.
+          game: pacman
+          # You can also customize the background color and other options
+          # For more options, refer to https://github.com/DenverCoder1/play-a-game-on-github-profile
