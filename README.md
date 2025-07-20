@@ -67,8 +67,8 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 
 Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau sekadar berdiskusi tentang teknologi. Jangan ragu untuk menghubungi saya melalui:
 
-* **LinkedIn:** [https://www.linkedin.com/in/amelia-agustin](https://www.linkedin.com/in/amelia-agustin)  *(Ganti dengan link profil LinkedIn Anda)*
-* **Email:** amelia.agustin@example.com *(Ganti dengan alamat email Anda)*
+* **LinkedIn:** [https://www.linkedin.com/in/amelia-agustin-650694334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* **Email:** iniamelia17@gmail.com
 
 ---
 
