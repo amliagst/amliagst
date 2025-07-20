@@ -31,3 +31,6 @@ Kutipan Motivasi ✨
 Lagu Favorit Saya 🎶
 Rewrite the Stars - Zac Efron & Zendaya
 Meski sering diinterpretasikan sebagai lagu cinta, bagi saya "Rewrite the Stars" adalah tentang keyakinan untuk mengejar mimpi dan cita-cita, bahkan ketika tampak ada hambatan. Ini adalah pengingat bahwa kita memiliki kekuatan untuk "menulis ulang takdir" dan membentuk masa depan yang kita inginkan.
+
+## 🎮 Mari Bermain!
+[![Game on GitHub Profile](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/.github/generated/game.gif)](https://github.com/DenverCoder1/play-a-game-on-github-profile)
