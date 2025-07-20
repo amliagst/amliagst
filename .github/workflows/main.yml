@@ -1,23 +1,23 @@
-name: Play a Game on Profile
+name: Play a Game on Profile # Ini adalah nama workflow Anda
 
-on:
+on: # Bagian 'on' menentukan kapan workflow akan berjalan
   schedule:
     # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Menjalankan setiap hari pada pukul 00:00 UTC
+  workflow_dispatch: # Memungkinkan Anda untuk memicu workflow secara manual dari tab Actions
 
-jobs:
-  update-game:
-    runs-on: ubuntu-latest
-    steps:
+jobs: # Mendefinisikan job yang akan dijalankan dalam workflow
+  update-game: # Nama dari job ini
+    runs-on: ubuntu-latest # Menjalankan job di virtual environment Ubuntu terbaru
+    steps: # Urutan langkah-langkah yang akan dijalankan dalam job ini
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # Menggunakan action untuk meng-checkout kode repositori
 
-      - name: Play a Game
-        uses: DenverCoder1/play-a-game-on-github-profile@v1.0.0
+      - name: Play a Game # Nama dari langkah ini
+        uses: DenverCoder1/play-a-game-on-github-profile@v1.0.0 # Menggunakan action game
         with:
           # Choose your game! Options: pacman, snake, tetris, spaceinvaders, minesweeper
-          # More games might be added in the future, check the action's repository.
-          game: pacman
-          # You can also customize the background color and other options
-          # For more options, refer to https://github.com/DenverCoder1/play-a-game-on-github-profile
+          game: pacman # Game yang akan dimainkan
+          # Anda juga bisa menambahkan opsi kustomisasi lainnya di sini, contoh:
+          # bgcolor: "#0d1117"
+          # line: "snake"
