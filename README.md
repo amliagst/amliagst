@@ -51,9 +51,6 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Konsep:**
-`Object-Oriented Programming (OOP)` | `Data Structures` | `Algorithms` | `Web Development` | `Mobile Development`
-
 ---
 
 ### 📊 Statistik GitHub Saya
