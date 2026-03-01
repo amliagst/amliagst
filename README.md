@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Halo Dunia! Saya **Amelia Agustin** 👋
+Hello world! Saya **Amelia Agustin** 👋
 
 Seorang mahasiswa **Teknik Informatika** yang bersemangat dengan minat mendalam di **UI/UX Design** dan **Data**. Saya antusias dalam menciptakan solusi digital yang intuitif dan efisien, serta senang menjelajahi teknologi baru.
 
