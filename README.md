@@ -1,37 +1,25 @@
 <div id="top"></div>
 
 ## Hi there 👋
-
-Hello world! Saya **Amelia Agustin** 👋
-
-Seorang mahasiswa **Teknik Informatika** yang bersemangat dengan minat mendalam di **UI/UX Design** dan **Data**. Saya antusias dalam menciptakan solusi digital yang intuitif dan efisien, serta senang menjelajahi teknologi baru.
-
+Saya **Amelia Agustin** 👋
+Seorang mahasiswi **Teknik Informatika** yang mempunyai minat di bidang **UI/UX Design** dan **Data**.
 ---
-
 ### 🚀 Proyek-proyek Unggulan Saya
-
 Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya selama perkuliahan:
-
--   **Aplikasi Kasir Desktop (Java NetBeans)**
-    * Proyek awal saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
-
--   **Sistem Kasir RFID (Java NetBeans)**
-    * Pengembangan lanjutan dari proyek kasir pertama, menambahkan fitur input RFID untuk login, menunjukkan kemampuan saya dalam **integrasi *hardware* dan *software***.
-
--   **Aplikasi Web & Mobile (PHP Native & Android Studio)**
-    * Pengalaman pertama saya dalam pengembangan web dan mobile dengan PHP Native dan Android Studio. Proyek ini mengasah pemahaman saya tentang **arsitektur *client-server***.
-
--   **Aplikasi Web & Mobile (Laravel & Flutter)**
-    * Proyek terbaru saya yang melibatkan pengembangan aplikasi web dengan **Laravel** dan aplikasi mobile dengan **Flutter**. Ini adalah pengalaman berharga dalam menggunakan *framework* modern untuk membangun aplikasi yang *scalable* dan responsif.
-      
--   **Sistem IoT Grading Buah**
-    * Proyek ini menggunakan IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
+1. **Aplikasi Kasir Desktop (Java NetBeans)**
+   * Proyek semester pertama saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
+2. **Sistem Kasir RFID (Java NetBeans)**
+   * Proyek semester kedua saya yang berfokus pada pengembangan lanjutan dari proyek kasir pertama, ada penambahan fitur input RFID untuk login.
+3. **Aplikasi Web & Mobile (PHP Native & Android Studio)**
+   * Proyek semester ketiga saya yang berfokus pada pengembangan web dan mobile dengan VSCode (PHP Native) dan Android Studio.
+4. **Aplikasi Web & Mobile (Laravel & Flutter)**
+   * Proyek semester keempat saya yang berfokus pada pengembangan web dan mobile dengan VSCode (Laravel) dan Flutter.
+5. **Sistem IoT Grading Buah**
+   * Proyek semester kelima saya yang berfokus pada integrasi sistem IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
 ---
 
 ### 🛠️ Keahlian Saya
-
 Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
-
 **Bahasa Pemrograman:**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -58,37 +46,25 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 ---
 
 ### 📊 Statistik GitHub Saya
-
 [![Amelia Agustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amliagst&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amliagst&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 ### 📫 Mari Terhubung!
-
-Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau sekadar berdiskusi tentang teknologi. Jangan ragu untuk menghubungi saya melalui:
-
 * **LinkedIn:** [https://www.linkedin.com/in/amelia-agustin-650694334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 * **Email:** iniamelia17@gmail.com
 
 ---
-
 ### ✨ Kutipan Motivasi
-
 "The only way to do great work is to love what you do." - **Steve Jobs**
 
 ---
-
 ### 🎶 Lagu Favorit Saya
-
 **Rewrite the Stars** - Zac Efron & Zendaya
-Bagi saya "Rewrite the Stars" adalah tentang keyakinan untuk mengejar mimpi dan cita-cita.
 ---
 
 ### 🎮 Mari Bermain!
-
 [![Game on GitHub Profile](https://github.com/amliagst/amliagst/blob/main/.github/generated/game.gif)](https://github.com/DenverCoder1/play-a-game-on-github-profile)
-
 <div align="right">
     <a href="#top">Kembali ke Atas ↑</a>
 </div>
