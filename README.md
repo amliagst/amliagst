@@ -7,15 +7,15 @@ Seorang mahasiswi **Teknik Informatika** yang mempunyai minat di bidang **UI/UX 
 ### 🚀 Proyek-proyek Unggulan Saya
 Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya selama perkuliahan:
 1. **Aplikasi Kasir Desktop (Java NetBeans)**
-   * Proyek semester pertama saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
+   Proyek semester pertama saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
 2. **Sistem Kasir RFID (Java NetBeans)**
-   * Proyek semester kedua saya yang berfokus pada pengembangan lanjutan dari proyek kasir pertama, ada penambahan fitur input RFID untuk login.
+   Proyek semester kedua saya yang berfokus pada pengembangan lanjutan dari proyek kasir pertama, ada penambahan fitur input RFID untuk login.
 3. **Aplikasi Web & Mobile (PHP Native & Android Studio)**
-   * Proyek semester ketiga saya yang berfokus pada pengembangan web dan mobile dengan VSCode (PHP Native) dan Android Studio.
+   Proyek semester ketiga saya yang berfokus pada pengembangan web dan mobile dengan VSCode (PHP Native) dan Android Studio.
 4. **Aplikasi Web & Mobile (Laravel & Flutter)**
-   * Proyek semester keempat saya yang berfokus pada pengembangan web dan mobile dengan VSCode (Laravel) dan Flutter.
+   Proyek semester keempat saya yang berfokus pada pengembangan web dan mobile dengan VSCode (Laravel) dan Flutter.
 5. **Sistem IoT Grading Buah**
-   * Proyek semester kelima saya yang berfokus pada integrasi sistem IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
+   Proyek semester kelima saya yang berfokus pada integrasi sistem IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
 ---
 
 ### 🛠️ Keahlian Saya
@@ -62,9 +62,3 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 ### 🎶 Lagu Favorit Saya
 **Rewrite the Stars** - Zac Efron & Zendaya
 ---
-
-### 🎮 Mari Bermain!
-[![Game on GitHub Profile](https://github.com/amliagst/amliagst/blob/main/.github/generated/game.gif)](https://github.com/DenverCoder1/play-a-game-on-github-profile)
-<div align="right">
-    <a href="#top">Kembali ke Atas ↑</a>
-</div>
