@@ -16,14 +16,16 @@ Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya sel
     * Proyek awal saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
 
 -   **Sistem Kasir RFID (Java NetBeans)**
-    * Pengembangan lanjutan dari proyek kasir pertama, menambahkan fitur input RFID untuk struk, menunjukkan kemampuan saya dalam **integrasi *hardware* dan *software***.
+    * Pengembangan lanjutan dari proyek kasir pertama, menambahkan fitur input RFID untuk login, menunjukkan kemampuan saya dalam **integrasi *hardware* dan *software***.
 
 -   **Aplikasi Web & Mobile (PHP Native & Android Studio)**
-    * Pengalaman pertama saya dalam pengembangan *full-stack* dengan PHP Native dan Android Studio. Proyek ini mengasah pemahaman saya tentang **arsitektur *client-server***.
+    * Pengalaman pertama saya dalam pengembangan web dan mobile dengan PHP Native dan Android Studio. Proyek ini mengasah pemahaman saya tentang **arsitektur *client-server***.
 
 -   **Aplikasi Web & Mobile (Laravel & Flutter)**
     * Proyek terbaru saya yang melibatkan pengembangan aplikasi web dengan **Laravel** dan aplikasi mobile dengan **Flutter**. Ini adalah pengalaman berharga dalam menggunakan *framework* modern untuk membangun aplikasi yang *scalable* dan responsif.
-
+      
+-   **Sistem IoT Grading Buah**
+    * Proyek ini menggunakan IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
 ---
 
 ### 🛠️ Keahlian Saya
@@ -48,8 +50,10 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
 **Desain:**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![ibisPaint](https://img.shields.io/badge/ibisPaint-1E90FF?style=for-the-badge&logo=ibispaint&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -78,8 +82,7 @@ Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek menarik atau sekadar
 ### 🎶 Lagu Favorit Saya
 
 **Rewrite the Stars** - Zac Efron & Zendaya
-Meski sering diinterpretasikan sebagai lagu cinta, bagi saya "Rewrite the Stars" adalah tentang keyakinan untuk mengejar mimpi dan cita-cita, bahkan ketika tampak ada hambatan. Ini adalah pengingat bahwa kita memiliki kekuatan untuk "menulis ulang takdir" dan membentuk masa depan yang kita inginkan.
-
+Bagi saya "Rewrite the Stars" adalah tentang keyakinan untuk mengejar mimpi dan cita-cita.
 ---
 
 ### 🎮 Mari Bermain!
