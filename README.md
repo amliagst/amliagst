@@ -7,7 +7,7 @@ Seorang mahasiswi **Teknik Informatika** yang mempunyai minat di bidang **UI/UX 
 ### 🚀 Proyek-proyek Unggulan Saya
 Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya selama perkuliahan:
 1. **Aplikasi Kasir Desktop (Java NetBeans)**
----Proyek semester pertama saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
+* Proyek semester pertama saya yang berfokus pada pengembangan aplikasi kasir berbasis desktop.
 2. **Sistem Kasir RFID (Java NetBeans)**
    Proyek semester kedua saya yang berfokus pada pengembangan lanjutan dari proyek kasir pertama, ada penambahan fitur input RFID untuk login.
 3. **Aplikasi Web & Mobile (PHP Native & Android Studio)**
