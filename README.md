@@ -1,8 +1,11 @@
 <div id="top"></div>
 
 ## Hi there 👋
+
+---
 Saya **Amelia Agustin** 👋
 Seorang mahasiswi **Teknik Informatika** yang mempunyai minat di bidang **UI/UX Design** dan **Data**.
+
 ---
 ### 🚀 Proyek-proyek Unggulan Saya
 Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya selama perkuliahan:
@@ -16,8 +19,8 @@ Berikut adalah beberapa proyek yang menunjukkan perjalanan dan keahlian saya sel
    Proyek semester keempat saya yang berfokus pada pengembangan web dan mobile dengan VSCode (Laravel) dan Flutter.
 5. **Sistem IoT Grading Buah**:
    Proyek semester kelima saya yang berfokus pada integrasi sistem IoT, image processing, dan sistem cerdas untuk mengklasifikasikan kualitas buah secara otomatis dan real-time.
+   
 ---
-
 ### 🛠️ Keahlian Saya
 Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 **Bahasa Pemrograman:**
@@ -44,7 +47,6 @@ Berikut adalah daftar teknologi dan *tools* yang saya kuasai:
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
-
 ### 📊 Statistik GitHub Saya
 [![Amelia Agustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amliagst&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amliagst&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
